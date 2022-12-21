@@ -1,0 +1,1 @@
+>py venv\Scripts\pywin32_postinstall.py -install
